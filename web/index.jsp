@@ -12,6 +12,5 @@
   </head>
   <body>
   $END$
-  dasdas
   </body>
 </html>
