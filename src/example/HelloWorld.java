@@ -8,9 +8,7 @@ public class HelloWorld {
   @WebMethod
   public String sayHelloWorldFrom(String from) {
     String result = "Hello, world, from " + from;
-    System.out.println(result);
-    System.out.println("result");
-    System.out.println("liulin");
+    System.out.println(result);dsad
     return result;
   }
   public static void main(String[] argv) {
